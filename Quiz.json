@@ -1,0 +1,84 @@
+[
+    {
+        "question": "What is the keyword for defining a function in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for creating a loop in Python?",
+        "answer": true
+    },
+    {
+        "question": "How can you comment out a line in Python?",
+        "answer": true
+    },
+    {
+        "question": "What data type is used to store text?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for creating a condition in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the data type used to store integers?",
+        "answer": true
+    },
+    {
+        "question": "How can you print text in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for creating a new object in Python?",
+        "answer": true
+    },
+    {
+        "question": "How can you import a library in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for ending a loop in Python?",
+        "answer": true
+    },
+    {
+        "question": "How can you get the length of a list in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for defining a constant in Python?",
+        "answer": false
+    },
+    {
+        "question": "What is the keyword for creating a function without executing it in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for creating an infinite loop in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the data type used to store floating-point numbers?",
+        "answer": true
+    },
+    {
+        "question": "How can you check the type of a variable in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for raising an exception in Python?",
+        "answer": true
+    },
+    {
+        "question": "How can you create a new list in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for creating a dictionary in Python?",
+        "answer": true
+    },
+    {
+        "question": "What is the keyword for creating a set in Python?",
+        "answer": true
+    }
+]
+
+
